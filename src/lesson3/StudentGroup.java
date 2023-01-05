@@ -28,4 +28,8 @@ public class StudentGroup implements Iterable<Student> {
     public ListIterator<Student> listIterator() {
         return new GroupListIterator(this);
     }
+
+    public Iterator<Student> reverseIterator() {
+        return new ReverseIterator(this, this.students.size());
+    }
 }

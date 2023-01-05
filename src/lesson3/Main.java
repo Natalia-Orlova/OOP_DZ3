@@ -34,6 +34,11 @@ public class Main {
             System.out.println(studIt.next());
         }
 
+        System.out.println("\n запись через foreach \n");
+        for (Student student : students1) {
+            System.out.println(student);
+        }
+
         System.out.println("\n запись через while с listIterator \n");
         ListIterator<Student> studListIt = students1.listIterator();
         while (studListIt.hasNext()) {
@@ -46,9 +51,10 @@ public class Main {
             System.out.println(studListIt.previous());
         }
 
-        System.out.println("\n запись через foreach \n");
-        for (Student student : students1) {
-            System.out.println(student);
+        System.out.println("\n запись в обратном порядке с помощью ReverseIterator \n");
+        Iterator<Student> reverseIt = students1.reverseIterator();
+        while (reverseIt.hasNext()) {
+            System.out.println(reverseIt.next());
         }
     }
 }

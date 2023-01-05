@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c376088-21ae-46eb-a3cf-18b7a1b23860" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/GroupListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/StudentGroupIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/ReverseIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/StudentGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
